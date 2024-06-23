@@ -67,3 +67,6 @@ Some departments called (importing departments) import the products which are st
 # EER Model
 ![EER](https://github.com/alimagdye/HFD-database/assets/166527591/5989cd7d-5bad-43da-9d2e-0f4af7f4249d)
 
+# Work-Bench Diagram
+![image](https://github.com/alimagdye/HFD-database/assets/166527591/e5ee2284-7787-4af5-8fbb-5e81b134bb47)
+
