@@ -1,2 +1,3 @@
 # HFD-database
-Welcome to the Comprehensive Hotel Facilities Database (HFD) repository. Our project enhances inclusivity in hospitality with features for guest health tracking, accessibility, feedback, caregiver support, legal affairs, and operational management.
+HFD database which is tailored to meet the unique needs of a hotel catering to individuals with disabilities.![image](https://github.com/alimagdye/HFD-database/assets/166527591/e382ca4b-1c98-4fc1-9c7f-5ddee8e8a756)
+
