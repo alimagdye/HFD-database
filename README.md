@@ -1,5 +1,5 @@
 # HFD-database
-HFD database which is tailored to meet the unique needs of a hotel catering to individuals with disabilities.
+HFD database is tailored to meet the unique needs of a hotel catering to individuals with disabilities.
 This introduction outlines the essential features and information in our HFD database:
 This comprehensive HFD database seamlessly manages various facets of hotel operations, including employee details across specialized departments such as medical, ensuring regular recording of guest health conditions, guests feedback. 
 HFD efficiently tracks many departments, facets, and guests information the hotel provides such as dependents information, offered rooms with its accessibility features enhancements, organized entertaining trips, integrated Caregivers who assist guests, training for staff development, legal affairs for incident resolution, cleanliness and safety measures, restaurant, stock, purchase management, appointment scheduling for hiring, maintenance, and insurance coverage for employees and transportation logistics.
