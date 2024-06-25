@@ -71,7 +71,7 @@ Some departments called (importing departments) import the products which are st
 ![image](https://github.com/alimagdye/HFD-database/assets/166527591/e5ee2284-7787-4af5-8fbb-5e81b134bb47)
 
 # The results 
-Estimated a 30% potential increase in guest satisfaction by ensuring tailored accommodations and inclusive services.
+- Estimated a 30% potential increase in guest satisfaction by ensuring tailored accommodations and inclusive services.
 - Projected a 20% improvement in operational efficiency through seamless management of guest and departmental data, based on logical assumptions and industry benchmarks.
 
 The results were hypothetical, based on industry benchmarks and logical assumptions. For example, by improving data management and ensuring tailored accommodations, we could reasonably expect an increase in guest satisfaction and operational efficiency. These estimates were derived from analyzing similar improvements seen in real-world applications of comprehensive database systems in the hospitality industry.  
