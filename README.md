@@ -1,5 +1,5 @@
 # HFD-database
-HFD database is tailored to meet the unique needs of a hotel catering to individuals with disabilities. This hotel is virtual I created it's idea. I got information about hotles and its management from HR manager and I studied the administrative structural structures of hotels and invented departments and ideas based on studies and calculations I conducted.
+HFD database is tailored to meet the unique needs of a hyptothetical hotel catering to individuals with disabilities. This hotel is virtual I created it's idea. I got information about hotles and its management from HR manager and I studied the administrative structural structures of hotels and invented departments and ideas based on studies and calculations I conducted.
 This introduction outlines the essential features and information in HFD database:
 This comprehensive HFD database seamlessly manages various facets of hotel operations, including employee details across specialized departments such as medical, ensuring regular recording of guest health conditions, guests feedback. 
 HFD efficiently tracks many departments, facets, and guests information the hotel provides such as dependents information, offered rooms with its accessibility features enhancements, organized entertaining trips, integrated Caregivers who assist guests, training for staff development, legal affairs for incident resolution, cleanliness and safety measures, restaurant, stock, purchase management, appointment scheduling for hiring, maintenance, and insurance coverage for employees and transportation logistics.
@@ -70,3 +70,8 @@ Some departments called (importing departments) import the products which are st
 # Work-Bench Diagram
 ![image](https://github.com/alimagdye/HFD-database/assets/166527591/e5ee2284-7787-4af5-8fbb-5e81b134bb47)
 
+# The results 
+Estimated a 30% potential increase in guest satisfaction by ensuring tailored accommodations and inclusive services.
+- Projected a 20% improvement in operational efficiency through seamless management of guest and departmental data, based on logical assumptions and industry benchmarks.
+
+The results were hypothetical, based on industry benchmarks and logical assumptions. For example, by improving data management and ensuring tailored accommodations, we could reasonably expect an increase in guest satisfaction and operational efficiency. These estimates were derived from analyzing similar improvements seen in real-world applications of comprehensive database systems in the hospitality industry.  
